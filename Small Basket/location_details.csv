@@ -1,0 +1,55 @@
+location_id,city,state,type,cluster
+location_1,Bengaluru,Karnataka,D,13
+location_2,Bengaluru,Karnataka,D,13
+location_3,Bengaluru,Karnataka,D,8
+location_4,Bengaluru,Karnataka,D,9
+location_5,Delhi,NCR,D,4
+location_6,Bengaluru,Karnataka,D,13
+location_7,Bengaluru,Karnataka,D,8
+location_8,Bengaluru,Karnataka,D,8
+location_9,Bengaluru,Karnataka,B,6
+location_10,Bengaluru,Karnataka,C,15
+location_11,Kolkata,West Bengal,B,6
+location_12,Noida,Uttar Pradesh,C,15
+location_13,Noida,Uttar Pradesh,C,15
+location_14,Vijayawada,Chimborazo,C,7
+location_15,Ahmedabad,Gujarat,C,15
+location_16,Delhi,NCR,C,3
+location_17,Bengaluru,Karnataka,C,12
+location_18,Bengaluru,Karnataka,B,16
+location_19,Indore,Madhya Pradesh,C,15
+location_20,Bengaluru,Karnataka,B,6
+location_21,Delhi,NCR,B,6
+location_22,Gandhinagar,Gujarat,C,7
+location_23,Gurgaon,Haryana,D,9
+location_24,Mumbai,Maharashtra,D,1
+location_25,Kanpur,Uttar Pradesh,D,1
+location_26,Mumbai,Maharashtra,D,10
+location_27,Mysore,Karnataka,D,1
+location_28,Mumbai,Maharashtra,E,10
+location_29,Mumbai,Maharashtra,E,10
+location_30,Mumbai,Maharashtra,C,3
+location_31,Nagpur,Maharashtra,B,10
+location_32,Mumbai,Maharashtra,C,3
+location_33,Coimbatore,Tamil Nadu,C,3
+location_34,Mumbai,Maharashtra,B,6
+location_35,Visakhapatnam,Andhra Pradesh,C,3
+location_36,Guntur,Andhra Pradesh,E,10
+location_37,Hyderabad,Telangana,D,2
+location_38,Surat,Gujarat,D,4
+location_39,Hyderabad,Telangana,B,6
+location_40,Pune,Maharashtra,C,3
+location_41,Pune,Maharashtra,D,4
+location_42,Hyderabad,Telangana,D,2
+location_43,Lucknow,Uttar Pradesh,E,10
+location_44,Bengaluru,Karnataka,A,5
+location_45,Bengaluru,Karnataka,A,11
+location_46,Bengaluru,Karnataka,A,14
+location_47,Bengaluru,Karnataka,A,14
+location_48,Bengaluru,Karnataka,A,14
+location_49,Bengaluru,Karnataka,A,11
+location_50,Gurgaon,Haryana,A,14
+location_51,Mumbai,Maharashtra,A,17
+location_52,Chennai,Tamil Nadu,A,11
+location_53,Chennai,Tamil Nadu,D,13
+location_54,Patna,Bihar,C,3
