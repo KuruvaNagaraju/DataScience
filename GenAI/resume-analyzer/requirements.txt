@@ -1,0 +1,15 @@
+streamlit
+langchain
+chromadb
+huggingface_hub
+sentence-transformers
+python-dotenv
+requests
+llama_index
+langchain-community
+pymupdf
+langchain-huggingface
+torch
+transformers
+langchain-chroma
+
