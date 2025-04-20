@@ -133,8 +133,8 @@ streamlit run app.py
 
 ## 📚 Setup References
 
-- For VLLM setup please refer: [vllm_setup.md](https://github.ibm.com/Nagaraju-Kuruva/resume-analyzer/blob/main/vllm_setup.md)
-- For OLLAMA setup please refer: [ollama_setup.md](https://github.ibm.com/Nagaraju-Kuruva/resume-analyzer/blob/main/ollama_setup.md)
+- For VLLM setup please refer: [vllm_setup.md](https://github.com/KuruvaNagaraju/DataScience/blob/master/GenAI/resume-analyzer/vllm_setup.md)
+- For OLLAMA setup please refer: [ollama_setup.md](https://github.com/KuruvaNagaraju/DataScience/blob/master/GenAI/resume-analyzer/ollama_setup.md)
 
 ---
 
