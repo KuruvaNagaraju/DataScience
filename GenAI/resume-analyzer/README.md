@@ -35,8 +35,8 @@ This application allows you to upload candidate resumes in PDF format and intera
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.ibm.com:Nagaraju-Kuruva/resume-analyzer.git
-cd resume-analyzer
+https://github.com/KuruvaNagaraju/DataScience.git
+cd GenAI/resume-analyzer
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
