@@ -35,7 +35,8 @@ The goal is to **enhance safety** in AI systems by:
 
 1. **Clone the repository or open the notebook:**
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/KuruvaNagaraju/DataScience.git
+   cd GenAI/toxic_comment_classifier
    ```
    Or upload the provided notebook to [Google Colab](https://colab.research.google.com/).
 
